@@ -48,3 +48,78 @@ export const userData = [
     "Active User": 3500,
   },
 ]
+
+export const userRows = [
+  {
+    id: 1,
+    username: "Jon Snow",
+    avatar:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+    email: "jon@gmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 2,
+    username: "Jon Snow",
+    avatar:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+    email: "jon@gmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 3,
+    username: "Jon Snow",
+    avatar:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+    email: "jon@gmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 4,
+    username: "Jon Snow",
+    avatar:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+    email: "jon@gmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 5,
+    username: "Jon Snow",
+    avatar:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+    email: "jon@gmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 6,
+    username: "Jon Snow",
+    avatar:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+    email: "jon@gmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 7,
+    username: "Jon Snow",
+    avatar:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+    email: "jon@gmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 8,
+    username: "Jon Snow",
+    avatar:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+    email: "jon@gmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+]
