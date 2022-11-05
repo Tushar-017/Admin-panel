@@ -49,6 +49,21 @@ export const userData = [
   },
 ]
 
+export const productData = [
+  {
+    name: "Jan",
+    Sales: 4000,
+  },
+  {
+    name: "Feb",
+    Sales: 3000,
+  },
+  {
+    name: "March",
+    Sales: 2000,
+  },
+]
+
 export const userRows = [
   {
     id: 1,
@@ -121,5 +136,72 @@ export const userRows = [
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
+  },
+]
+
+export const productRows = [
+  {
+    id: 1,
+    name: "Apple Airpods",
+    img: "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/apple-airpods-pro-ture-wireless-earphones-832X558-1598517589.jpg?downsize=*:360",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 2,
+    name: "Apple Airpods",
+    img: "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/apple-airpods-pro-ture-wireless-earphones-832X558-1598517589.jpg?downsize=*:360",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 3,
+    name: "Apple Airpods",
+    img: "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/apple-airpods-pro-ture-wireless-earphones-832X558-1598517589.jpg?downsize=*:360",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 4,
+    name: "Apple Airpods",
+    img: "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/apple-airpods-pro-ture-wireless-earphones-832X558-1598517589.jpg?downsize=*:360",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 5,
+    name: "Apple Airpods",
+    img: "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/apple-airpods-pro-ture-wireless-earphones-832X558-1598517589.jpg?downsize=*:360",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 6,
+    name: "Apple Airpods",
+    img: "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/apple-airpods-pro-ture-wireless-earphones-832X558-1598517589.jpg?downsize=*:360",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 7,
+    name: "Apple Airpods",
+    img: "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/apple-airpods-pro-ture-wireless-earphones-832X558-1598517589.jpg?downsize=*:360",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 8,
+    name: "Apple Airpods",
+    img: "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/apple-airpods-pro-ture-wireless-earphones-832X558-1598517589.jpg?downsize=*:360",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
   },
 ]
